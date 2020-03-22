@@ -12,10 +12,6 @@ namespace calcultr
 {
     public partial class Form1 : Form
     {
-        
-        
-        
-       
         bool positive = true;
         
         public Form1()
